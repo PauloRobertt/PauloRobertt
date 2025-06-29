@@ -1,15 +1,120 @@
 
-### Olá! Eu sou o Robert 👋
+# 💻 Paulo Robert
 
-![Paulo Robert GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloRobertt&show_icons=true&theme=dracula)
+Olá! Me chamo Paulo Robert, tenho 21 anos e sou natural do estado do Ceará. Sou formado em Análise e Desenvolvimento de Sistemas pela Unifametro. Tenho como principais características o comprometimento, a adaptabilidade e a busca constante por evolução — tanto no âmbito pessoal quanto profissional.
 
-## Tecnologias
+---
 
-<div style="display: inline_block"><br/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-</div>
+### 🚀 Linguagens e Tecnologias
+
+  <img
+    align="left"
+    alt="HTML5"
+    title="HTML5"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+  />
+  
+  <img
+    align="left"
+    alt="CSS3"
+    title="CSS3"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+  />
+
+  <img
+    align="left"
+    alt="JavaScript"
+    title="JavaScript"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+  />
+
+  <img
+    align="left"
+    alt="NodejS"
+    title="NodejS"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"
+  />
+
+  <img
+    align="left"
+    alt="ReactJS"
+    title="ReactJS"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+  />
+
+  <img
+    align="left"
+    alt="Java"
+    title="Java"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+  />
+
+  <img
+    align="left"
+    alt="PostgreSQL"
+    title="PostgreSQL"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+  />
+
+  <img
+    align="left"
+    alt="MongoDB"
+    title="MongoDB"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"
+  />
+
+  <img
+    align="left"
+    alt="Git"
+    title="Git"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+  />
+
+  <img
+    align="left"
+    alt="GitHub"
+    title="GitHub"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+  />
+
+  <br/>
+  <br/>
+
+  ### 📊 Estatísticas
+
+  <div>
+    <img
+      align="left"
+      alt="GitHub Status"
+      height="200px"
+      style="padding-right: 10px"
+      src="https://github-readme-stats.vercel.app/api?username=PauloRobertt&show_icons=true&theme=tokyonight&locale=pt-br"
+    />
+    <img
+      align="left"
+      alt="GitHub Status"
+      height="200px"
+      style="padding-right: 10px"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloRobertt&show_icons=true&theme=tokyonight&layout=compact&custom_title=Tecnologias"
+    />
+  </div>
