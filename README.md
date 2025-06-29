@@ -107,14 +107,14 @@ Olá! Me chamo Paulo Robert, tenho 21 anos e sou natural do estado do Ceará. So
       align="left"
       alt="GitHub Status"
       height="200px"
-      style="padding-right: 10px"
+      style="padding: 10px"
       src="https://github-readme-stats.vercel.app/api?username=PauloRobertt&show_icons=true&theme=tokyonight&locale=pt-br"
     />
     <img
       align="left"
       alt="GitHub Status"
       height="200px"
-      style="padding-right: 10px"
+      style="padding: 10px"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloRobertt&show_icons=true&theme=tokyonight&layout=compact&custom_title=Tecnologias"
     />
   </div>
